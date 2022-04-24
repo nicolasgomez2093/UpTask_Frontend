@@ -4,6 +4,7 @@ Deploy Proyecto MERN Stack con Vite, TailwindCSS, Headless UI, Context API, Sock
 ## View a demo :pushpin:
 
 Frontend: [https://uptask-front-nicogomezdev.netlify.app/](https://uptask-front-nicogomezdev.netlify.app/)
+
 Backend: [https://uptask-backend-nicodev.herokuapp.com/](https://uptask-backend-nicodev.herokuapp.com/)
 
 
